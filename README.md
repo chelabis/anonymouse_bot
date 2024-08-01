@@ -13,4 +13,4 @@ user = "YOUR DATABASE USERNAME"
 
 pass = "YOUR DATABASE PASSWORD"
 
-Start mybot.py and enojoy!
+Start main.py and enojoy!
